@@ -48,7 +48,7 @@ Inside the diff windows the usual `]c`, `[c`, `do`, `dp` work.
 
 ```lua
 {
-  "danielholter/diffanything.nvim", -- or dir = "~/dev/diffanything"
+  "dahorg/diffanything.nvim", -- or dir = "~/dev/diffanything"
   cmd = "DiffAnything",
   opts = {
     ignore = { ".git", "node_modules" }, -- basenames skipped in directory mode
